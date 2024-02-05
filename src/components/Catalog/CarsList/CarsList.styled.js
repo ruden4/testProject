@@ -6,6 +6,7 @@ const List = styled.ul`
     flex-direction: row;
     flex-wrap: wrap;
     gap: 50px 29px;
+    max-width: 1300px;
 `
 
 const Item = styled.li`

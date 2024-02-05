@@ -24,7 +24,7 @@ const CarsItem = ({ car }) => {
         }
     },[car.id, favorites])
 
-    const onClick = () => {
+const onClick = () => {
         if (!favorite) {
             dispatch(addFavorites(car))
             addFavorite(!favorite)

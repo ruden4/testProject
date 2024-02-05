@@ -11,6 +11,7 @@ const HeaderWrap = styled.div`
   @media screen and (max-width: 375px) {
     width: 100%;
     padding: 0 10px;
+    flex-direction: column;
   }
 
   @media screen and (min-width: 375px) and (max-width: 768px) {
