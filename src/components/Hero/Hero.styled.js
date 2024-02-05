@@ -17,7 +17,7 @@ const HeroTitle = styled.strong`
   width: 400px;
   color: #fff;
   background-color: #00000090;
-  min-height: 90.5vh;
+  min-height: 91.5vh;
   position: relative;
   @media screen and (min-width: 375px) and (max-width: 768px) {
     font-size: 30px;
